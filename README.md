@@ -23,7 +23,7 @@ This project demonstrates a clean architecture with separation of concerns acros
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository
-`git clone https://github.com/<your-username>/web-server-layer-ts-app.git `
+`git clone https://github.com/<your-username>/web-server-layer-ts-app.git `  
 `cd web-server-layer-ts-app`
 
 ### 2. Install dependencies
